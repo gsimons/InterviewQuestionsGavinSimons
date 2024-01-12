@@ -1,0 +1,16 @@
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\bin\Debug\net8.0\PunchLogicTestApp.exe
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\bin\Debug\net8.0\PunchLogicTestApp.deps.json
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\bin\Debug\net8.0\PunchLogicTestApp.runtimeconfig.json
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\bin\Debug\net8.0\PunchLogicTestApp.dll
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\bin\Debug\net8.0\PunchLogicTestApp.pdb
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\obj\Debug\net8.0\PunchLogicTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\obj\Debug\net8.0\PunchLogicTestApp.AssemblyInfoInputs.cache
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\obj\Debug\net8.0\PunchLogicTestApp.AssemblyInfo.cs
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\obj\Debug\net8.0\PunchLogicTestApp.csproj.CoreCompileInputs.cache
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\obj\Debug\net8.0\PunchLogicTestApp.dll
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\obj\Debug\net8.0\refint\PunchLogicTestApp.dll
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\obj\Debug\net8.0\PunchLogicTestApp.pdb
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\obj\Debug\net8.0\PunchLogicTestApp.genruntimeconfig.cache
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\obj\Debug\net8.0\ref\PunchLogicTestApp.dll
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\bin\Debug\net8.0\PunchLogicTest.json
+C:\Users\gsimo\source\repos\PunchLogicTestApp\PunchLogicTestApp\bin\Debug\net8.0\ErrorLog.txt
